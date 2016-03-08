@@ -1,0 +1,194 @@
+{
+  "name": "Leih Mikulic",
+  "info": {},
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "location": {
+    "city": "Berlin",
+    "country": "Deutschland",
+    "code": "13357",
+    "address": "Martin-Opitz-Straße 5"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Social Media Marketing Manager",
+        "employer": "Yabozi Pets",
+        "start": "2016-02",
+        "end": "Present",
+        "keywords": [],
+        "highlights": [
+          "Employ social media strategies to promote Yabozi brand and products for potential wholesale customers",
+          "Compose online content",
+          "Manage Yabozi Royals Facebook, Twitter and Instagram accounts"
+        ]
+      },
+      {
+        "position": "Teacher",
+        "employer": "Sunny Garden Preschool and Learning Center",
+        "start": "2014-09",
+        "end": "2015-12",
+        "keywords": [],
+        "highlights": [
+          "Taught a preschool classroom of twenty Czech children ages two to seven",
+          "Created curriculum for English, math, science and art",
+          "Planned and taught English grammar and conversation lessons for elementary aged students",
+          "Designed and taught English conversation and grammar lessons for parents"
+        ]
+      },
+      {
+        "position": "Writer",
+        "employer": "Taking on the Giant",
+        "start": "2013-12",
+        "end": "2015-06",
+        "keywords": [],
+        "highlights": [
+          "Researched and interviewed young entrepreneurs",
+          "Wrote articles about their achievements that were used as an educational resource for middle school students"
+        ]
+      },
+      {
+        "position": "First Grade Teacher",
+        "employer": "Teach for America",
+        "start": "2013-06",
+        "end": "2013-12",
+        "keywords": [],
+        "highlights": [
+          "Taught a class of eighteen first grade students at Nataki Talibah Schoolhouse of Detroit ",
+          "Organized classroom resources and assessments to achieve maximum time efficiency",
+          "Created and implemented reading, writing, math, social studies, science, and phonics daily lesson plans",
+          "Crafted and managed behavioral and academic classroom expectations"
+        ]
+      },
+      {
+        "position": "Youth Caseworker Intern, Support Group Facilitator",
+        "employer": "International Rescue Committee",
+        "start": "2012-06",
+        "end": "2013-04",
+        "keywords": [],
+        "highlights": [
+          "Oriented and enrolled newly arrived refugee students in approximately 15 schools in the Baltimore City and Baltimore County Public School systems",
+          "First point of contact for the students and their families concerning any school issues for the first 6 months and liaison between families and their school faculty and staff",
+          "Facilitated the International/American Student Leadership Dialogue group (15 high school students), Sand Tray Therapy group (10 elementary students) and Nepali Parent Support group (10 parents)"
+        ]
+      },
+      {
+        "position": "Teacher",
+        "employer": "Futuro Latino Center",
+        "start": "2011-01",
+        "end": "2011-06",
+        "keywords": [],
+        "highlights": [
+          "Taught approximately 20 Intermediate adult students  English language and grammar used at home and in the workplace"
+        ]
+      },
+      {
+        "position": "Program Director",
+        "employer": "Read A Story/Write A Story",
+        "start": "2010-01",
+        "end": "2013-05",
+        "keywords": [],
+        "highlights": [
+          "Lead approximately twenty Goucher College tutors and twenty elementary students each semester in an academic afterschool program which develops and hones reading and writing skills",
+          "Created lesson plans and led the group activities while also engaging with the school’s administration on behavior management and scheduling",
+          "Constructed an academic schedule for the program, recruited, organized and trained tutors, and worked closely with teachers and staff to best support the students"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "School for International Training",
+        "start": "2011-08",
+        "end": "2011-12",
+        "summary": "",
+        "area": "Post Genocide Restortation and Peacebuilding",
+        "studyType": "Study Abroad"
+      },
+      {
+        "institution": "Goucher College",
+        "start": "2009-09",
+        "end": "2013-05",
+        "summary": "",
+        "area": "Peace and Conflict Studies",
+        "studyType": "Bachelor"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "General",
+        "skills": [
+          "Public Speaking",
+          "Leadership and Management",
+          "Organization and Time-efficency"
+        ]
+      }
+    ]
+  },
+  "recognition": [
+    {
+      "title": "Joe Morton Award for Outstanding Achievement in Peace Studies",
+      "date": "2013-05",
+      "from": "Goucher College",
+      "summary": "awarded for my exemplimary leadership in Peace Studies graduating class"
+    },
+    {
+      "title": "Ethel Marie Apter Halpern Memorial Community Service Prize",
+      "date": "2013-05",
+      "from": "Goucher College",
+      "summary": "awarded for my service in various organizations in the local community"
+    },
+    {
+      "title": "Mary Hortop Bready ’46 Social Service to Baltimore Prize",
+      "date": "2013-05",
+      "from": "Goucher College",
+      "summary": "awarded for my work towards the revitalization of Baltimore City"
+    },
+    {
+      "title": "Goucher Leadership Scholar",
+      "date": "2013",
+      "from": "Goucher College",
+      "summary": "represented Goucher College for the Baltimore Education Coalition and Baltimore City Council meetings"
+    }
+  ],
+  "social": [
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "url": "https://www.linkedin.com/in/leih-mikulic-927bba4a?trk=nav_responsive_tab_profile",
+      "user": "Leih Mikulic"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mikela Pokorna, Director of Sunny Garden",
+      "flavor": "professional",
+      "quote": "It is my pleasure to recommend Leih Mikulic, she was an effective and integral part of our staff. She is a motivated and responsible person with a high degree of integrity who will be a positive addition to your institution.",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Currently level A2 and will continue to learn until C1 fluency "
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Czech",
+      "fluency": "Basic"
+    }
+  ]
+}

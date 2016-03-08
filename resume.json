@@ -1,0 +1,198 @@
+{
+  "basics": {
+    "name": "Leih Mikulic",
+    "picture": "https://scontent-frt3-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/12804816_10206854234328170_1160421538638827066_n.jpg?oh=f506d3724e47a691a0515eab1280c701&oe=575F3CE1",
+    "email": "leihmikulic@gmail.com",
+    "phone": "+49 176 986 794 94",
+    "location": {
+      "address": "Martin-Opitz-Straße 5",
+      "postalCode": "13357",
+      "city": "Berlin",
+      "countryCode": "Deutschland"
+    },
+    "profiles": [  
+      {
+        "network": "Linkedin",
+        "username": "Leih Mikulic",
+        "url": "https://www.linkedin.com/in/leih-mikulic-927bba4a?trk=nav_responsive_tab_profile"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yabozi Pets",
+      "position": "Social Media Marketing Manager",
+      "startDate": "2016-02",
+      "endDate": "Present",
+      "highlights": [
+        "Employ social media strategies to promote Yabozi brand and products for potential wholesale customers",
+        "Compose online content",
+        "Manage Yabozi Royals Facebook, Twitter and Instagram accounts"
+      ]
+    },
+    {
+      "company": "Sunny Garden Preschool and Learning Center",
+      "position": "Teacher",
+      "startDate": "2014-09",
+      "endDate": "2015-12",
+      "highlights": [
+        "Taught a preschool classroom of twenty Czech children ages two to seven",
+        "Created curriculum for English, math, science and art",
+        "Planned and taught English grammar and conversation lessons for elementary aged students",
+        "Designed and taught English conversation and grammar lessons for parents"
+      ]
+    },
+    {
+      "company": "Taking on the Giant",
+      "position": "Writer",
+      "startDate": "2013-12",
+      "endDate": "2015-06",
+      "highlights": [
+        "Researched and interviewed young entrepreneurs",
+        "Wrote articles about their achievements that were used as an educational resource for middle school students"
+      ]
+    },
+    {
+     "company": "Teach for America",
+      "position": "First Grade Teacher",
+      "startDate": "2013-06",
+      "endDate": "2013-12",
+      "highlights": [
+        "Taught a class of eighteen first grade students at Nataki Talibah Schoolhouse of Detroit ",
+        "Organized classroom resources and assessments to achieve maximum time efficiency",
+        "Created and implemented reading, writing, math, social studies, science, and phonics daily lesson plans",
+        "Crafted and managed behavioral and academic classroom expectations"
+      ]
+    },
+    {
+     "company": "International Rescue Committee",
+      "position": "Youth Caseworker Intern, Support Group Facilitator",
+      "startDate": "2012-06",
+      "endDate": "2013-04",
+      "highlights": [
+        "Oriented and enrolled newly arrived refugee students in approximately 15 schools in the Baltimore City and Baltimore County Public School systems",
+        "First point of contact for the students and their families concerning any school issues for the first 6 months and liaison between families and their school faculty and staff",
+        "Facilitated the International/American Student Leadership Dialogue group (15 high school students), Sand Tray Therapy group (10 elementary students) and Nepali Parent Support group (10 parents)"
+      ]
+    },
+    {
+     "company": "Read A Story/Write A Story",
+      "position": "Program Director",
+      "startDate": "2010-01",
+      "endDate": "2013-05",
+      "highlights": [
+        "Lead approximately twenty Goucher College tutors and twenty elementary students each semester in an academic afterschool program which develops and hones reading and writing skills",
+        "Created lesson plans and led the group activities while also engaging with the school’s administration on behavior management and scheduling",
+        "Constructed an academic schedule for the program, recruited, organized and trained tutors, and worked closely with teachers and staff to best support the students"
+      ]
+    },
+    {
+     "company": "Futuro Latino Center",
+      "position": "Teacher",
+      "startDate": "2011-01",
+      "endDate": "2011-06",
+      "highlights": [
+        "Taught approximately 20 Intermediate adult students  English language and grammar used at home and in the workplace"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Goucher College",
+      "area": "Peace and Conflict Studies",
+      "studyType": "Bachelor",
+      "startDate": "2009-09",
+      "endDate": "2013-05"
+    },
+    {
+      "institution": "School for International Training",
+      "area": "Post Genocide Restortation and Peacebuilding",
+      "studyType": "Study Abroad",
+      "startDate": "2011-08",
+      "endDate": "2011-12",
+      "course": "Post-Genocide Restoration and Peacebuilding in Kigali, Rwanda and Gulu, Uganda"
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Joe Morton Award for Outstanding Achievement in Peace Studies",
+      "date": "2013-05",
+      "awarder": "Goucher College",
+      "summary": "awarded for my exemplimary leadership in Peace Studies graduating class"
+    },
+    {
+      "title": "Ethel Marie Apter Halpern Memorial Community Service Prize",
+      "date": "2013-05",
+      "awarder": "Goucher College",
+      "summary": "awarded for my service in various organizations in the local community"
+    },
+    {
+      "title": "Mary Hortop Bready ’46 Social Service to Baltimore Prize",
+      "date": "2013-05",
+      "awarder": "Goucher College",
+      "summary": "awarded for my work towards the revitalization of Baltimore City"
+    },
+    {
+      "title": "Goucher Leadership Scholar",
+      "date": "2013",
+      "awarder": "Goucher College",
+      "summary": "represented Goucher College for the Baltimore Education Coalition and Baltimore City Council meetings"
+    }
+    ],
+  "certifications": [
+    {
+      "name": "Birth Doula",
+      "institution": "Childbirth International",
+      "dates": "2013-01- Present",
+      "summary": "A Birth Doula provides emotional and physical support for a laboring mother and is an advocate in the birthing community."
+    },
+    {
+      "name": "TEFL Teaching Certification",
+      "institution": "TEFL Worldwide Prague",
+      "dates": "2014-07-2014-08",
+      "summary": "Certified to teach children and adults"
+    },
+    {
+      "name": "Mediation Educator and Facilitator",
+      "institution": "Help Increase the Peace Project",
+      "dates": "2011-09-2011-12",
+      "summary": "Mediation Educator for children as part of behavior management curriculum and Mediation Facilitator for school-based mediation"
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "German",
+      "fluency": "Currently level A2 and will continue to learn until C1 fluency "
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Basic"
+    },
+    {
+      "language": "Czech",
+      "fluency": "Basic"
+    }
+  ],
+  "skills": [
+    {
+      "name": "General",
+      "keywords": [
+        "Public Speaking",
+        "Leadership and Management",
+        "Organization and Time-efficency"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Mikela Pokorna, Director of Sunny Garden",
+      "reference": "It is my pleasure to recommend Leih Mikulic, she was an effective and integral part of our staff. She is a motivated and responsible person with a high degree of integrity who will be a positive addition to your institution."
+    }
+  ]
+}
