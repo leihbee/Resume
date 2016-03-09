@@ -88,20 +88,18 @@ work:
 volunteer: []
 education:
   -
-    institution: 'TEFL Worldwide Prague'
-    area: 'Certified to teach children and adults'
-    studyType: 'TEFL Teaching Certification'
-    startDate: ""
-    endDate: '2013'
-    gpa: ""
-    courses: []
-  -
     institution: 'The School for International Training'
     area: 'Study abroad in Kigali, Rwanda and Gulu, Uganda'
     studyType: 'Post-Genocide Restoration Semester '
     startDate: ""
     endDate: '2011'
-    gpa: ""
+    courses: []
+  -
+    institution: 'TEFL Worldwide Prague'
+    area: 'Certified to teach children and adults'
+    studyType: 'TEFL Teaching Certification'
+    startDate: ""
+    endDate: '2013'
     courses: []
   -
     institution: 'Help Increase the Peace Program'
@@ -109,7 +107,6 @@ education:
     studyType: 'Mediation Facilitator Certification'
     startDate: '2011'
     endDate: '2011'
-    gpa: ""
     courses: []
   -
     institution: 'Goucher College'
@@ -117,7 +114,6 @@ education:
     studyType: 'Bachelors Degree (B.A.)'
     startDate: 2009-09
     endDate: 2013-05
-    gpa: ""
     courses:
       - 'Migration and Geographies of Conflict'
 awards:

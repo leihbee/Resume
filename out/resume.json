@@ -106,30 +106,27 @@
     "level": "",
     "history": [
       {
-        "institution": "TEFL Worldwide Prague",
-        "start": "",
-        "end": "2013",
-        "grade": "",
-        "curriculum": [],
-        "summary": "",
-        "area": "Certified to teach children and adults",
-        "studyType": "TEFL Teaching Certification"
-      },
-      {
         "institution": "The School for International Training",
         "start": "",
         "end": "2011",
-        "grade": "",
         "curriculum": [],
         "summary": "",
         "area": "Study abroad in Kigali, Rwanda and Gulu, Uganda",
         "studyType": "Post-Genocide Restoration Semester "
       },
       {
+        "institution": "TEFL Worldwide Prague",
+        "start": "",
+        "end": "2013",
+        "curriculum": [],
+        "summary": "",
+        "area": "Certified to teach children and adults",
+        "studyType": "TEFL Teaching Certification"
+      },
+      {
         "institution": "Help Increase the Peace Program",
         "start": "2011",
         "end": "2011",
-        "grade": "",
         "curriculum": [],
         "summary": "",
         "area": "Education and facilitation of community mediation ",
@@ -139,7 +136,6 @@
         "institution": "Goucher College",
         "start": "2009-09",
         "end": "2013-05",
-        "grade": "",
         "curriculum": [
           "Migration and Geographies of Conflict"
         ],
