@@ -87,21 +87,9 @@
         ]
       },
       {
-        "position": "Teacher",
-        "employer": "Futuro Latino Center",
-        "summary": "",
-        "start": "2011-01",
-        "end": "2011-06",
-        "url": "",
-        "keywords": [],
-        "highlights": [
-          "Taught approximately 20 Intermediate adult students  English language and grammar used at home and in the workplace"
-        ]
-      },
-      {
         "position": "Program Director",
         "employer": "Read A Story/Write A Story",
-        "summary": "",
+        "summary": " ",
         "start": "2010-01",
         "end": "2013-05",
         "url": "",
@@ -139,7 +127,7 @@
       },
       {
         "institution": "Help Increase the Peace Program",
-        "start": "",
+        "start": "2011",
         "end": "2011",
         "grade": "",
         "curriculum": [],
@@ -165,24 +153,21 @@
   "skills": {
     "sets": [
       {
-        "name": "Public Speaking",
+        "name": "Communication",
         "level": "",
-        "skills": []
+        "skills": [
+          "Public Speaking",
+          "Mediation "
+        ]
       },
       {
-        "name": "Leadership and Management",
+        "name": "Leadership",
         "level": "",
-        "skills": []
-      },
-      {
-        "name": "Organization and Time-efficiency",
-        "level": "",
-        "skills": []
-      },
-      {
-        "name": "Community Mediation",
-        "level": "",
-        "skills": []
+        "skills": [
+          "Management",
+          "Organization",
+          "Creative Problem Solving  "
+        ]
       }
     ]
   },
@@ -223,15 +208,15 @@
   ],
   "interests": [
     {
-      "name": "Hiking",
+      "name": "Hiking ",
+      "keywords": []
+    },
+    {
+      "name": "Reading",
       "keywords": []
     },
     {
       "name": "Travel & Exploration",
-      "keywords": []
-    },
-    {
-      "name": "Reading while Baking ",
       "keywords": []
     }
   ],

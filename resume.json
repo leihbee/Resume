@@ -95,22 +95,11 @@
       "website": "",
       "startDate": "2010-01",
       "endDate": "2013-05",
-      "summary": "",
+      "summary": " ",
       "highlights": [
         "Led approximately twenty Goucher College tutors and twenty elementary students each semester in an academic afterschool program which develops and hones reading and writing skills",
         "Created lesson plans and led the group activities while also engaging with the school’s administration on behavior management and scheduling",
         "Constructed an academic schedule for the program, recruited, organized and trained tutors, and worked closely with teachers and staff to best support the students"
-      ]
-    },
-    {
-      "company": "Futuro Latino Center",
-      "position": "Teacher",
-      "website": "",
-      "startDate": "2011-01",
-      "endDate": "2011-06",
-      "summary": "",
-      "highlights": [
-        "Taught approximately 20 Intermediate adult students  English language and grammar used at home and in the workplace"
       ]
     }
   ],
@@ -149,7 +138,7 @@
       "institution": "Help Increase the Peace Program",
       "area": "Education and facilitation of community mediation ",
       "studyType": "Mediation Facilitator Certification",
-      "startDate": "",
+      "startDate": "2011",
       "endDate": "2011",
       "gpa": "",
       "courses": []
@@ -184,24 +173,21 @@
   "publications": [],
   "skills": [
     {
-      "name": "Public Speaking",
+      "name": "Communication",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Public Speaking",
+        "Mediation "
+      ]
     },
     {
-      "name": "Leadership and Management",
+      "name": "Leadership",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Organization and Time-efficiency",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Community Mediation",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "Management",
+        "Organization",
+        "Creative Problem Solving  "
+      ]
     }
   ],
   "languages": [
@@ -224,15 +210,15 @@
   ],
   "interests": [
     {
-      "name": "Hiking",
+      "name": "Hiking ",
+      "keywords": []
+    },
+    {
+      "name": "Reading",
       "keywords": []
     },
     {
       "name": "Travel & Exploration",
-      "keywords": []
-    },
-    {
-      "name": "Reading while Baking ",
       "keywords": []
     }
   ],
