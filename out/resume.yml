@@ -1,13 +1,17 @@
 basics:
   name: 'Leih Mikulic'
+  label: ""
   picture: 'https://scontent-frt3-1.xx.fbcdn.net/hphotos-xlf1/v/t1.0-9/12804816_10206854234328170_1160421538638827066_n.jpg?oh=f506d3724e47a691a0515eab1280c701&oe=575F3CE1'
   email: leihmikulic@gmail.com
   phone: '+49 176 986 794 94'
+  website: ""
+  summary: ""
   location:
     address: 'Martin-Opitz-Straße 5'
     postalCode: '13357'
     city: Berlin
     countryCode: DE
+    region: ""
   profiles:
     -
       network: Linkedin
@@ -17,17 +21,21 @@ work:
   -
     company: 'Yabozi Pets'
     position: 'Social Media Marketing Manager'
+    website: ""
     startDate: 2016-02
-    endDate: Present
+    endDate: ""
+    summary: ""
     highlights:
-      - 'Employ social media strategies to promote Yabozi brand and products for potential wholesale customers'
-      - 'Compose online content'
+      - 'Employ social media strategies to promote Yabozi brand and products to potential wholesale customers'
       - 'Manage Yabozi Royals Facebook, Twitter and Instagram accounts'
+      - 'Compose online content '
   -
     company: 'Sunny Garden Preschool and Learning Center'
     position: Teacher
+    website: ""
     startDate: 2014-09
     endDate: 2015-12
+    summary: ""
     highlights:
       - 'Taught a preschool classroom of twenty Czech children ages two to seven'
       - 'Created curriculum for English, math, science and art'
@@ -36,16 +44,20 @@ work:
   -
     company: 'Taking on the Giant'
     position: Writer
+    website: ""
     startDate: 2013-12
     endDate: 2015-06
+    summary: ""
     highlights:
       - 'Researched and interviewed young entrepreneurs'
       - 'Wrote articles about their achievements that were used as an educational resource for middle school students'
   -
     company: 'Teach for America'
     position: 'First Grade Teacher'
+    website: ""
     startDate: 2013-06
     endDate: 2013-12
+    summary: ""
     highlights:
       - 'Taught a class of eighteen first grade students at Nataki Talibah Schoolhouse of Detroit '
       - 'Organized classroom resources and assessments to achieve maximum time efficiency'
@@ -54,8 +66,10 @@ work:
   -
     company: 'International Rescue Committee'
     position: 'Youth Caseworker Intern, Support Group Facilitator'
+    website: ""
     startDate: 2012-06
     endDate: 2013-04
+    summary: ""
     highlights:
       - 'Oriented and enrolled newly arrived refugee students in approximately 15 schools in the Baltimore City and Baltimore County Public School systems'
       - 'First point of contact for the students and their families concerning any school issues for the first 6 months and liaison between families and their school faculty and staff'
@@ -63,33 +77,58 @@ work:
   -
     company: 'Futuro Latino Center'
     position: Teacher
+    website: ""
     startDate: 2011-01
     endDate: 2011-06
+    summary: ""
     highlights:
       - 'Taught approximately 20 Intermediate adult students  English language and grammar used at home and in the workplace'
   -
     company: 'Read A Story/Write A Story'
     position: 'Program Director'
+    website: ""
     startDate: 2010-01
     endDate: 2013-05
+    summary: ""
     highlights:
-      - 'Lead approximately twenty Goucher College tutors and twenty elementary students each semester in an academic afterschool program which develops and hones reading and writing skills'
+      - 'Led approximately twenty Goucher College tutors and twenty elementary students each semester in an academic afterschool program which develops and hones reading and writing skills'
       - 'Created lesson plans and led the group activities while also engaging with the school’s administration on behavior management and scheduling'
       - 'Constructed an academic schedule for the program, recruited, organized and trained tutors, and worked closely with teachers and staff to best support the students'
+volunteer: []
 education:
   -
-    institution: 'School for International Training'
-    area: 'Post Genocide Restortation and Peacebuilding'
-    studyType: 'Study Abroad'
-    startDate: 2011-08
-    endDate: 2011-12
-    course: 'Post-Genocide Restoration and Peacebuilding in Kigali, Rwanda and Gulu, Uganda'
+    institution: 'TEFL Worldwide Prague'
+    area: 'Certified to teach children and adults'
+    studyType: 'TEFL Teaching Certification'
+    startDate: ""
+    endDate: '2013'
+    gpa: ""
+    courses: []
+  -
+    institution: 'The School for International Training'
+    area: 'Study abroad in Kigali, Rwanda and Gulu, Uganda'
+    studyType: 'Post-Genocide Restoration Semester '
+    startDate: ""
+    endDate: '2011'
+    gpa: ""
+    courses: []
+  -
+    institution: 'Help Increase the Peace Program'
+    area: 'Education and facilitation of community mediation '
+    studyType: 'Mediation Facilitator Certification'
+    startDate: ""
+    endDate: '2011'
+    gpa: ""
+    courses: []
   -
     institution: 'Goucher College'
     area: 'Peace and Conflict Studies'
-    studyType: Bachelor
+    studyType: 'Bachelors Degree (B.A.)'
     startDate: 2009-09
     endDate: 2013-05
+    gpa: ""
+    courses:
+      - 'Migration and Geographies of Conflict'
 awards:
   -
     title: 'Joe Morton Award for Outstanding Achievement in Peace Studies'
@@ -111,43 +150,48 @@ awards:
     date: '2013'
     awarder: 'Goucher College'
     summary: 'represented Goucher College for the Baltimore Education Coalition and Baltimore City Council meetings'
-certifications:
+publications: []
+skills:
   -
-    name: 'Birth Doula'
-    institution: 'Childbirth International'
-    dates: '2013-01- Present'
-    summary: 'A Birth Doula provides emotional and physical support for a laboring mother and is an advocate in the birthing community.'
+    name: 'Public Speaking'
+    level: ""
+    keywords: []
   -
-    name: 'TEFL Teaching Certification'
-    institution: 'TEFL Worldwide Prague'
-    dates: 2014-07-2014-08
-    summary: 'Certified to teach children and adults'
+    name: 'Leadership and Management'
+    level: ""
+    keywords: []
   -
-    name: 'Mediation Educator and Facilitator'
-    institution: 'Help Increase the Peace Project'
-    dates: 2011-09-2011-12
-    summary: 'Mediation Educator for children as part of behavior management curriculum and Mediation Facilitator for school-based mediation'
+    name: 'Organization and Time-efficiency'
+    level: ""
+    keywords: []
+  -
+    name: 'Community Mediation'
+    level: ""
+    keywords: []
 languages:
   -
     language: English
-    fluency: 'Native speaker'
+    fluency: 'Native Speaker'
   -
     language: German
-    fluency: 'A2 and will continue to learn until C1'
+    fluency: 'A2 (will learn until C1 fluency)'
   -
     language: Spanish
     fluency: Basic
   -
     language: Czech
     fluency: Basic
-skills:
+interests:
   -
-    name: General
-    keywords:
-      - 'Public Speaking'
-      - 'Leadership and Management'
-      - 'Organization and Time-efficency'
+    name: Hiking
+    keywords: []
+  -
+    name: 'Travel & Exploration'
+    keywords: []
+  -
+    name: 'Reading while Baking '
+    keywords: []
 references:
   -
-    name: 'Mikela Pokorna, Director of Sunny Garden'
-    reference: 'It is my pleasure to recommend Leih Mikulic, she was an effective and integral part of our staff. She is a motivated and responsible person with a high degree of integrity who will be a positive addition to your institution.'
+    name: 'Michaela Pokorna'
+    reference: 'It is my pleasure to recommend Leih Mikulic, she is an effective and integral part of our staff. She is a motivated and responsible person with a high degree of integrity who will be a positive addition to your institution.'

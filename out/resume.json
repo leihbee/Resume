@@ -7,6 +7,7 @@
   },
   "location": {
     "city": "Berlin",
+    "region": "",
     "country": "DE",
     "code": "13357",
     "address": "Martin-Opitz-Straße 5"
@@ -16,20 +17,25 @@
       {
         "position": "Social Media Marketing Manager",
         "employer": "Yabozi Pets",
+        "summary": "",
+        "current": true,
         "start": "2016-02",
-        "end": "Present",
+        "end": "",
+        "url": "",
         "keywords": [],
         "highlights": [
-          "Employ social media strategies to promote Yabozi brand and products for potential wholesale customers",
-          "Compose online content",
-          "Manage Yabozi Royals Facebook, Twitter and Instagram accounts"
+          "Employ social media strategies to promote Yabozi brand and products to potential wholesale customers",
+          "Manage Yabozi Royals Facebook, Twitter and Instagram accounts",
+          "Compose online content "
         ]
       },
       {
         "position": "Teacher",
         "employer": "Sunny Garden Preschool and Learning Center",
+        "summary": "",
         "start": "2014-09",
         "end": "2015-12",
+        "url": "",
         "keywords": [],
         "highlights": [
           "Taught a preschool classroom of twenty Czech children ages two to seven",
@@ -41,8 +47,10 @@
       {
         "position": "Writer",
         "employer": "Taking on the Giant",
+        "summary": "",
         "start": "2013-12",
         "end": "2015-06",
+        "url": "",
         "keywords": [],
         "highlights": [
           "Researched and interviewed young entrepreneurs",
@@ -52,8 +60,10 @@
       {
         "position": "First Grade Teacher",
         "employer": "Teach for America",
+        "summary": "",
         "start": "2013-06",
         "end": "2013-12",
+        "url": "",
         "keywords": [],
         "highlights": [
           "Taught a class of eighteen first grade students at Nataki Talibah Schoolhouse of Detroit ",
@@ -65,8 +75,10 @@
       {
         "position": "Youth Caseworker Intern, Support Group Facilitator",
         "employer": "International Rescue Committee",
+        "summary": "",
         "start": "2012-06",
         "end": "2013-04",
+        "url": "",
         "keywords": [],
         "highlights": [
           "Oriented and enrolled newly arrived refugee students in approximately 15 schools in the Baltimore City and Baltimore County Public School systems",
@@ -77,8 +89,10 @@
       {
         "position": "Teacher",
         "employer": "Futuro Latino Center",
+        "summary": "",
         "start": "2011-01",
         "end": "2011-06",
+        "url": "",
         "keywords": [],
         "highlights": [
           "Taught approximately 20 Intermediate adult students  English language and grammar used at home and in the workplace"
@@ -87,11 +101,13 @@
       {
         "position": "Program Director",
         "employer": "Read A Story/Write A Story",
+        "summary": "",
         "start": "2010-01",
         "end": "2013-05",
+        "url": "",
         "keywords": [],
         "highlights": [
-          "Lead approximately twenty Goucher College tutors and twenty elementary students each semester in an academic afterschool program which develops and hones reading and writing skills",
+          "Led approximately twenty Goucher College tutors and twenty elementary students each semester in an academic afterschool program which develops and hones reading and writing skills",
           "Created lesson plans and led the group activities while also engaging with the school’s administration on behavior management and scheduling",
           "Constructed an academic schedule for the program, recruited, organized and trained tutors, and worked closely with teachers and staff to best support the students"
         ]
@@ -102,35 +118,75 @@
     "level": "",
     "history": [
       {
-        "institution": "School for International Training",
-        "start": "2011-08",
-        "end": "2011-12",
+        "institution": "TEFL Worldwide Prague",
+        "start": "",
+        "end": "2013",
+        "grade": "",
+        "curriculum": [],
         "summary": "",
-        "area": "Post Genocide Restortation and Peacebuilding",
-        "studyType": "Study Abroad"
+        "area": "Certified to teach children and adults",
+        "studyType": "TEFL Teaching Certification"
+      },
+      {
+        "institution": "The School for International Training",
+        "start": "",
+        "end": "2011",
+        "grade": "",
+        "curriculum": [],
+        "summary": "",
+        "area": "Study abroad in Kigali, Rwanda and Gulu, Uganda",
+        "studyType": "Post-Genocide Restoration Semester "
+      },
+      {
+        "institution": "Help Increase the Peace Program",
+        "start": "",
+        "end": "2011",
+        "grade": "",
+        "curriculum": [],
+        "summary": "",
+        "area": "Education and facilitation of community mediation ",
+        "studyType": "Mediation Facilitator Certification"
       },
       {
         "institution": "Goucher College",
         "start": "2009-09",
         "end": "2013-05",
+        "grade": "",
+        "curriculum": [
+          "Migration and Geographies of Conflict"
+        ],
         "summary": "",
         "area": "Peace and Conflict Studies",
-        "studyType": "Bachelor"
+        "studyType": "Bachelors Degree (B.A.)"
       }
     ]
   },
+  "service": {},
   "skills": {
     "sets": [
       {
-        "name": "General",
-        "skills": [
-          "Public Speaking",
-          "Leadership and Management",
-          "Organization and Time-efficency"
-        ]
+        "name": "Public Speaking",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Leadership and Management",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Organization and Time-efficiency",
+        "level": "",
+        "skills": []
+      },
+      {
+        "name": "Community Mediation",
+        "level": "",
+        "skills": []
       }
     ]
   },
+  "writing": [],
   "recognition": [
     {
       "title": "Joe Morton Award for Outstanding Achievement in Peace Studies",
@@ -165,22 +221,36 @@
       "user": "Leih Mikulic"
     }
   ],
+  "interests": [
+    {
+      "name": "Hiking",
+      "keywords": []
+    },
+    {
+      "name": "Travel & Exploration",
+      "keywords": []
+    },
+    {
+      "name": "Reading while Baking ",
+      "keywords": []
+    }
+  ],
   "testimonials": [
     {
-      "name": "Mikela Pokorna, Director of Sunny Garden",
+      "name": "Michaela Pokorna",
       "flavor": "professional",
-      "quote": "It is my pleasure to recommend Leih Mikulic, she was an effective and integral part of our staff. She is a motivated and responsible person with a high degree of integrity who will be a positive addition to your institution.",
+      "quote": "It is my pleasure to recommend Leih Mikulic, she is an effective and integral part of our staff. She is a motivated and responsible person with a high degree of integrity who will be a positive addition to your institution.",
       "private": false
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Native Speaker"
     },
     {
       "language": "German",
-      "fluency": "A2 and will continue to learn until C1"
+      "fluency": "A2 (will learn until C1 fluency)"
     },
     {
       "language": "Spanish",
