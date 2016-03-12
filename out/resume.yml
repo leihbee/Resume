@@ -88,13 +88,6 @@ work:
 volunteer: []
 education:
   -
-    institution: 'The School for International Training'
-    area: 'Study abroad in Kigali, Rwanda and Gulu, Uganda'
-    studyType: 'Post-Genocide Restoration Semester '
-    startDate: ""
-    endDate: '2011'
-    courses: []
-  -
     institution: 'TEFL Worldwide Prague'
     area: 'Certified to teach children and adults'
     studyType: 'TEFL Teaching Certification'
@@ -102,10 +95,17 @@ education:
     endDate: '2013'
     courses: []
   -
+    institution: 'The School for International Training'
+    area: 'Study abroad in Kigali, Rwanda and Gulu, Uganda'
+    studyType: 'Post-Genocide Restoration Semester '
+    startDate: ""
+    endDate: '2011'
+    courses: []
+  -
     institution: 'Help Increase the Peace Program'
     area: 'Education and facilitation of community mediation '
     studyType: 'Mediation Facilitator Certification'
-    startDate: '2011'
+    startDate: ""
     endDate: '2011'
     courses: []
   -

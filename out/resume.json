@@ -106,15 +106,6 @@
     "level": "",
     "history": [
       {
-        "institution": "The School for International Training",
-        "start": "",
-        "end": "2011",
-        "curriculum": [],
-        "summary": "",
-        "area": "Study abroad in Kigali, Rwanda and Gulu, Uganda",
-        "studyType": "Post-Genocide Restoration Semester "
-      },
-      {
         "institution": "TEFL Worldwide Prague",
         "start": "",
         "end": "2013",
@@ -124,8 +115,17 @@
         "studyType": "TEFL Teaching Certification"
       },
       {
+        "institution": "The School for International Training",
+        "start": "",
+        "end": "2011",
+        "curriculum": [],
+        "summary": "",
+        "area": "Study abroad in Kigali, Rwanda and Gulu, Uganda",
+        "studyType": "Post-Genocide Restoration Semester "
+      },
+      {
         "institution": "Help Increase the Peace Program",
-        "start": "2011",
+        "start": "",
         "end": "2011",
         "curriculum": [],
         "summary": "",
